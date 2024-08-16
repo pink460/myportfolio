@@ -1,0 +1,304 @@
+/* .links {
+    justify-content: end;
+    display: flex;
+    gap: 10px;
+}
+
+#logo {
+    width: 50px;
+}
+#herocontainer{
+    display: flex;
+
+}
+button{
+    background-color: red;
+    color: white;
+    border: none;
+    height: 45px;
+    padding: 10px;
+    
+}
+#MINO{
+    height: 243px;
+    width: 243px;
+    border-radius: 50%;
+    justify-content: space-around;
+    
+}
+#description{
+    width: 497px;
+}
+#hero-container{
+    justify-content :space-evenly;
+;
+}
+#post-headings{
+    display: flex;
+    justify-content: space-between;
+    width: 1060px; 
+
+}
+
+#parent{
+    display: flex;
+    justify-content: center;
+}
+
+#my_div {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 25px;
+}
+#anything {
+    width: 399px;
+    background-color:  lightpink;
+    padding: 25px;
+    border-radius: 45px;
+}
+
+#something {
+    width: 399px;
+    background-color: lightpink;
+    padding: 25px;
+    border-radius: 45px;
+ }
+ #dashboard{
+    display: flex;
+    width: 246px;
+    height: 100%;
+ }
+ #popotutu{
+      
+ }
+ #image{
+    width: 20rem;
+ }
+ #illustration{
+    width: 1000px;
+    
+ } */
+
+
+
+
+
+
+
+
+
+
+
+
+ ul{
+    display: flex;
+    justify-content:flex-end;
+}
+
+.nav-links {
+    padding: auto;
+    margin: 20px;
+}
+
+.nav-links li {
+    display: inline-block;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: black;
+}
+
+#hero-container {
+display: flex;
+justify-content: space-between;
+justify-content: center;
+}
+
+button{
+    background-color: red;
+    color: white;
+    border:none;
+    padding: 10px;
+}
+
+#profile {
+    width: 243px;
+    height: 243px;
+    border-radius: 50%;
+}
+
+section {
+    padding: 0 146px 0 146px;
+}
+
+#description {
+   margin-right:0 115px  0 115px;
+   margin-bottom: 71px;
+}
+
+#parent-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#posts {
+    margin-right: 20px;
+ background-color:beige;
+ padding: 25px;
+ border-radius: 4px;
+}
+
+#view {
+    
+    background-color: beige;
+    padding: 25px;
+    border-radius: 4px;
+}
+
+#Recentposts{
+    background-color: blueviolet;
+}
+
+#post-heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+#views {
+    list-style-type: none;
+}
+
+#design-dashboard-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+    margin-right: 18px;
+    margin-top: 25px;
+}
+
+#year-name {
+    display: flex;   
+         align-items: center;
+}
+
+#year {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+#design-dashboard-text {
+    gap: 200px;
+margin-left: 40px;
+}
+
+#line {
+    border-bottom: 1px solid grey;
+}
+
+#text {
+    display: flex;
+}
+    
+#texts {
+    color: grey;
+}
+
+#illustration-box {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+#illustration-box-text {
+    gap: 200px;
+margin-left: 50px;
+}
+
+.pic {
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+margin-left: -100px;
+    margin-top: 20px;
+margin-bottom: 0px;
+}
+
+#writing {
+    display: flex;   
+    align-items: baseline;
+}
+
+#old-year {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+#written {
+    color: grey;
+}
+
+
+#typograph-box {
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.photo {
+    width: 246px;
+    height: 180px;
+    border-radius: 6px;
+    margin-left: -100px;
+    margin-top: 20px;
+}
+
+#typograph-box-text {
+gap: 200px;
+margin-left: 50px;
+}
+
+#days {
+    display: flex;   
+    align-items: baseline; 
+}
+
+#years-same {
+    padding: 5px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+#wroten {
+    color: grey;
+}
+
+#main-pic {
+    display: flex;
+    justify-content: center;
+    gap: 35px ;
+}
+
+#photo {
+    width: 30px;
+    margin-top: 80px;
+  
+}
+
+#copyright {
+   display: flex;
+   margin-left: 600px;
+}
